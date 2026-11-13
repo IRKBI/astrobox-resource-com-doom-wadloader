@@ -1,0 +1,30 @@
+{
+  "item": {
+    "id": "com.doom.wadloader",
+    "restype": "quick_app",
+    "name": "DOOM WAD接收器",
+    "description": "用于接收doom wad文件，请搭配doom wad sender插件以及原生doom使用，传输时请确保手机插件界面以及手环接收器在前台运行，由于版权问题，wad文件请自行下载",
+    "preview": [
+      "media/device-1794539594655 (1).png",
+      "media/device-1794543664574 (1).png",
+      "media/device-1794543678881.png"
+    ],
+    "icon": "media/icon.png",
+    "cover": "media/IMG_20261113_112526.png",
+    "author": [
+      {
+        "name": "IRKBI",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb10p": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.doom.wadloader.release.1.0.0.rpk",
+      "versionCode": 1
+    }
+  },
+  "ext": {}
+}
