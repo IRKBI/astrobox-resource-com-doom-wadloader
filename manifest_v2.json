@@ -2,7 +2,7 @@
   "item": {
     "id": "com.doom.wadloader",
     "restype": "quick_app",
-    "name": "DOOM WAD接收器",
+    "name": "DOOM WAD LOADER",
     "description": "用于接收doom wad文件，请搭配doom wad sender插件以及原生doom使用，传输时请确保手机插件界面以及手环接收器在前台运行，由于版权问题，wad文件请自行下载",
     "preview": [
       "media/device-1794539594655 (1).png",
